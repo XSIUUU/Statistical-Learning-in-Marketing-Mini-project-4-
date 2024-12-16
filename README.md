@@ -79,6 +79,18 @@ Identified **3 key segments**:
 3. 🟡 **Quality Seekers**: Balanced focus on health and taste.
 
 ---
+## 📈 Visual Highlights  
+
+### Comparing Different Clustering Methods  
+![Comparing Clustering](Image/Comparing%20different%20clustering...)
+
+### IRF Dynamic Analyses on Sales  
+![IRF Dynamic Analyses](Image/IRF%20dynamic%20analyses%20on%20Sales...)
+
+### SEM Path for Project 1 Exploration  
+![SEM Path](Image/SEM%20path%20for%20Project%201%20explora...)
+
+---
 
 ## 📊 Data Files  
 
