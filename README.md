@@ -82,13 +82,14 @@ Identified **3 key segments**:
 ## 📈 Visual Highlights  
 
 ### Comparing Different Clustering Methods  
-![Comparing Clustering](Requirement, Data & Report/Image/Comparing different clustering method.png)
+![Comparing Clustering](Image/Comparing%20different%20clustering...)
 
 ### IRF Dynamic Analyses on Sales  
-![IRF Dynamic Analyses](Requirement, Data & Report/Image/IRF dynamic analyses on Sales.png)
+![IRF Dynamic Analyses](Image/IRF%20dynamic%20analyses%20on%20Sales...)
 
 ### SEM Path for Project 1 Exploration  
-![SEM Path](Requirement, Data & Report/Image/SEM path for Project 1 exploratory factor analysis (EFA).png)
+![SEM Path](Image/SEM%20path%20for%20Project%201%20explora...)
+
 
 ---
 
