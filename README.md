@@ -82,7 +82,7 @@ Identified **3 key segments**:
 ## 📈 Visual Highlights  
 
 ### Comparing Different Clustering Methods  
-![Comparing Clustering](Image/Comparing%20different%20clustering...)
+![Comparing Clustering](Requirement,%20Data%20&%20Report/Image/IRF.png)
 
 ### IRF Dynamic Analyses on Sales  
 ![IRF Dynamic Analyses](Image/IRF%20dynamic%20analyses%20on%20Sales...)
