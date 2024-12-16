@@ -81,12 +81,16 @@ Identified **3 key segments**:
 ---
 ## 📈 Visual Highlights  
 
-### Comparing Different Clustering Methods  ### IRF Dynamic Analyses on Sales  
-<img src="Requirement,%20Data%20&%20Report/Image/clustering.png" width="200">  <img src="Requirement,%20Data%20&%20Report/Image/IRF.png" width="200">
+### Comparing Different Clustering Methods | IRF Dynamic Analyses on Sales | SEM Path for Project 1 Exploration  
+<div>
+    <img src="Requirement,%20Data%20&%20Report/Image/clustering.png" width="200" style="display: inline-block; margin-right: 300px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Requirement,%20Data%20&%20Report/Image/IRF.png" width="300" style="display: inline-block; margin-right: 300px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Requirement,%20Data%20&%20Report/Image/SEM(EFA).png" width="150" style="display: inline-block;">
+</div>
 
 
-### SEM Path for Project 1 Exploration  
-<img src="Requirement,%20Data%20&%20Report/Image/SEM(EFA).png" width="300">
+
+
 ---
 
 ## 📊 Data Files  
